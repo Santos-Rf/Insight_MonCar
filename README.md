@@ -1,6 +1,8 @@
 
 ## MonCar Project
 
+<img src="Moncar.png" alt="logo" style="zoom:100%;" />
+
 *Este é um projeto fictício. A empresa, o contexto e as perguntas de negócios não são reais.
 
 *A logo criada é ficticia.
