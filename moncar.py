@@ -260,7 +260,7 @@ def tabela (df):
   return None
 
 if __name__ == "__main__":
-  path = '/content/MonCar Cars.csv'
+  path =  r'MonCar Cars.csv'
   df = get_data(path)
   split_name(df)
   car_age(df)
